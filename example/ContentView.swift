@@ -16,7 +16,7 @@ struct ContentView: View {
             
         VStack(spacing:20) {
                
-                Text("Coffee ☕️")
+                Text("Coffee ")
                     .font(.system(size:50))
                     .font(.title)
                     .fontWeight(.bold)
